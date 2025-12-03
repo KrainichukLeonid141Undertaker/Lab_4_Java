@@ -1,0 +1,3 @@
+The apple is red and the banana is yellow. Apple pie is delicious.
+Cherry trees bloom beautifully. The dog runs fast. A cat and a dog
+play together. Banana is a fruit. Hello world, this is a test!
